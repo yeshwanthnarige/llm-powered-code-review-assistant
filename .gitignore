@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+frontend/dist/
+.DS_Store
+.coverage
+coverage/
+*.tsbuildinfo
